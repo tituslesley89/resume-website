@@ -7,10 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
-    
-	<atom:link href="https://tituslesley89.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tituslesley89.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrabble Word Checker</title>
+      <link>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</guid>
+      <description>Whenever me and my friends play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive on what a valid word is, and hence are not good sources for work validation. So I decided to make my own word validator, which blackjack and hookers.
+Introduction I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer.</description>
+    </item>
     
     <item>
       <title>VR Lego Simulator</title>
@@ -30,7 +36,7 @@ The system was developed using FIVE-UDE version of Unity (A custom made Unity Ve
       <guid>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</guid>
       <description>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.
 For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.
-Challenges:   Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
+Challenges: Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
     </item>
     
     <item>
@@ -96,7 +102,7 @@ Introduction: Playing music on any instruments and creating a song requires a se
       <guid>https://tituslesley89.com/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
     </item>
     
   </channel>
