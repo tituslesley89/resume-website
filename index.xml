@@ -14,8 +14,8 @@
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</guid>
-      <description>Whenever me and my friends play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive on what a valid word is, and hence are not good sources for work validation. So I decided to make my own word validator, which blackjack and hookers.
-Introduction I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer.</description>
+      <description>Whenever my friends and I play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive, and hence are not good sources. So I decided to make my own word validator, which blackjack and hookers.
+Introduction I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer. There are areas of improvements, but I think overall it was a good experience.</description>
     </item>
     
     <item>
@@ -50,7 +50,16 @@ Introduction: Playing music on any instruments and creating a song requires a se
     </item>
     
     <item>
-      <title>1-Amazon</title>
+      <title>1-AWS</title>
+      <link>https://tituslesley89.com/experience/aws/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://tituslesley89.com/experience/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-Amazon</title>
       <link>https://tituslesley89.com/experience/amazon/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -59,7 +68,7 @@ Introduction: Playing music on any instruments and creating a song requires a se
     </item>
     
     <item>
-      <title>2-Reuters</title>
+      <title>3-Reuters</title>
       <link>https://tituslesley89.com/experience/reuters/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -68,7 +77,7 @@ Introduction: Playing music on any instruments and creating a song requires a se
     </item>
     
     <item>
-      <title>3-Securonix</title>
+      <title>4-Securonix</title>
       <link>https://tituslesley89.com/experience/securonix/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -77,7 +86,7 @@ Introduction: Playing music on any instruments and creating a song requires a se
     </item>
     
     <item>
-      <title>3-TCS</title>
+      <title>5-TCS</title>
       <link>https://tituslesley89.com/experience/tcs/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -86,23 +95,12 @@ Introduction: Playing music on any instruments and creating a song requires a se
     </item>
     
     <item>
-      <title>4-USM</title>
+      <title>6-USM</title>
       <link>https://tituslesley89.com/experience/usm/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://tituslesley89.com/experience/usm/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://tituslesley89.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tituslesley89.com/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
-https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
     </item>
     
   </channel>
