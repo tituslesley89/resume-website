@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tituslesley89.com/series/featured/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tituslesley89.com/series/featured/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Scrabble Word Checker</title>
       <link>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</link>
@@ -36,7 +40,7 @@ The system was developed using FIVE-UDE version of Unity (A custom made Unity Ve
       <guid>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</guid>
       <description>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.
 For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.
-Challenges: Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
+Challenges:   Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
     </item>
     
     <item>

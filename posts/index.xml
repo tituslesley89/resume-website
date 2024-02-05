@@ -93,7 +93,7 @@ The system was developed using FIVE-UDE version of Unity (A custom made Unity Ve
             <guid>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</guid>
             <description>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.
 For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.
-Challenges: Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
+Challenges:   Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
             <content type="html"><![CDATA[<p>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.</p>
 <p>For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.</p>
 <h3 id="challenges">Challenges:</h3>
@@ -153,7 +153,7 @@ I have gotten these from pictures and files stored around my PC, I don&rsquo;t h
 
 <p>The initial development of the project was straight forward however, I had not taken into consideration some factor&rsquo;s during early development.</p>
 <p>I was using a game engine (Unity) to develop an editor. Although Unity is very customizable, most of the heavy lifting had to be done by the developer.
-Since I was effectively making an editor, I needed a was to save and load circuits the user had designing, I had come to this realization much later in development, and was not considered for the &lsquo;release&rsquo;.
+Since I was effectively making an editor, I needed a was to save and load circuits the user had designing, I had come to this realization much later in development, and was not considered for the &lsquo;release&rsquo;. 
 The time management system of the pulse node was naive, and did not account for more complex music patterns. This greatly reduced the number of music pieces playable by the framework. Only repetitive beats would be able to be played by this framework.</p>
 <p>Circuit explanation:
 Each black node generates a pulse which is interpreted as a TRUE signal. While every other time it is FALSE.</p>

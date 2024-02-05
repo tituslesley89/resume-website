@@ -1,63 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/posts/2017/11/vr-lego-simulator/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/posts/2015/12/music-logic/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/series/featured/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/posts/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/series/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://tituslesley89.com/experience/amazon-retail/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/aws/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/amazon/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/reuters/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/securonix/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/tcs/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/usm/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/education/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/experience/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/skills/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://tituslesley89.com/tags/</loc>
   </url>
+  
 </urlset>

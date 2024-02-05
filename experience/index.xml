@@ -7,9 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://tituslesley89.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://tituslesley89.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>1-AWS</title>
+      <title>1-Amazon Retail</title>
+      <link>https://tituslesley89.com/experience/amazon-retail/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://tituslesley89.com/experience/amazon-retail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-AWS</title>
       <link>https://tituslesley89.com/experience/aws/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -18,7 +31,7 @@
     </item>
     
     <item>
-      <title>2-Amazon</title>
+      <title>3-Amazon</title>
       <link>https://tituslesley89.com/experience/amazon/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -27,7 +40,7 @@
     </item>
     
     <item>
-      <title>3-Reuters</title>
+      <title>4-Reuters</title>
       <link>https://tituslesley89.com/experience/reuters/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -36,7 +49,7 @@
     </item>
     
     <item>
-      <title>4-Securonix</title>
+      <title>5-Securonix</title>
       <link>https://tituslesley89.com/experience/securonix/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -45,7 +58,7 @@
     </item>
     
     <item>
-      <title>5-TCS</title>
+      <title>6-TCS</title>
       <link>https://tituslesley89.com/experience/tcs/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
@@ -54,7 +67,7 @@
     </item>
     
     <item>
-      <title>6-USM</title>
+      <title>7-USM</title>
       <link>https://tituslesley89.com/experience/usm/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
