@@ -4,7 +4,7 @@
         <link>https://tituslesley89.com/posts/</link>
         <description>Recent content in Posts on Lesley Pandian</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://tituslesley89.com/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -15,8 +15,9 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
             
             <guid>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</guid>
-            <description>Whenever my friends and I play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive, and hence are not good sources. So I decided to make my own word validator, which blackjack and hookers.
-Introduction I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer. There are areas of improvements, but I think overall it was a good experience.</description>
+            <description>&lt;p&gt;Whenever my friends and I play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive, and hence are not good sources. So I decided to make my own word validator, which blackjack and hookers.&lt;/p&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
+&lt;p&gt;I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer. There are areas of improvements, but I think overall it was a good experience.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Whenever my friends and I play any word game (Scrabble/Quiddler etc.) we keep arguing about which &lsquo;source of truth&rsquo; do we follow. Online dictionaries are very permissive, and hence are not good sources. So I decided to make my own word validator, which blackjack and hookers.</p>
 <h4 id="introduction">Introduction</h4>
 <p>I&rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer. There are areas of improvements, but I think overall it was a good experience.</p>
@@ -44,8 +45,8 @@ Introduction I&amp;rsquo;ve worked with AWS using internal tools in my professio
             <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
             
             <guid>https://tituslesley89.com/posts/2017/11/vr-lego-simulator/</guid>
-            <description>During my Virtual Reality Course (Master&amp;rsquo;s) we had to come up with a system to construct and de-construct Lego. The project was done as a team of 3 developers and 2 artists.
-The system was developed using FIVE-UDE version of Unity (A custom made Unity Version for developing application for the UTDallas Motion Capture Lab). We had access to a Motion capture Lab which used Vicon Cameras to track the motion of the users Oculus Rift (DK1) and 2 Wii Controllers.</description>
+            <description>&lt;p&gt;During my Virtual Reality Course (Master&amp;rsquo;s) we had to come up with a system to construct and de-construct Lego. The project was done as a team of 3 developers and 2 artists.&lt;/p&gt;
+&lt;p&gt;The system was developed using FIVE-UDE version of Unity (A custom made Unity Version for developing application for the UTDallas Motion Capture Lab). We had access to a Motion capture Lab which used Vicon Cameras to track the motion of the users Oculus Rift (DK1) and 2 Wii Controllers. The Oculus Rift (DK1) was used for visual immersion and the Wii controllers simulated the users hands &amp;amp; inputs.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>During my Virtual Reality Course (Master&rsquo;s) we had to come up with a system to construct and de-construct Lego. The project was done as a team of 3 developers and 2 artists.</p>
 <p>The system was developed using FIVE-UDE version of Unity (A custom made Unity Version for developing application for the UTDallas Motion Capture Lab). We had access to a Motion capture Lab which used Vicon Cameras to track the motion of the users Oculus Rift (DK1) and 2 Wii Controllers. The Oculus Rift (DK1) was used for visual immersion and the Wii controllers simulated the users hands &amp; inputs.</p>
 <p>Given the high-precision capability of the Motion Tracking Lab, we wanted to develop an interaction technique which could replicate real life interaction with Lego. Our primary goal was to make it as realistic and natural as possible.</p>
@@ -59,10 +60,9 @@ The system was developed using FIVE-UDE version of Unity (A custom made Unity Ve
 <li>Unsnapping of certain lego pieces can divide the lego system into more than 2 individual groups, in such a situation how does one dynamically determine which Legos are together or not?</li>
 <li>Apart from managing the Lego themselves, the lego physics (weight, bounce, gravity)needed to be simulated accurately.</li>
 </ul>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/apofKuhpu0k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/apofKuhpu0k?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p><img src="http://2.bp.blogspot.com/-tXPMUkvb6jc/VOEFA9_no8I/AAAAAAAADoI/tMh8UfWIK8k/s1600/IMG_20150210_140440.jpg" alt="">
 <img src="http://2.bp.blogspot.com/-J0ApybCkijE/VOEFXxACqqI/AAAAAAAADoU/pHqJj-qiIR4/s1600/IMG_20150212_170658.jpg" alt="">
@@ -91,9 +91,12 @@ The system was developed using FIVE-UDE version of Unity (A custom made Unity Ve
             <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
             
             <guid>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</guid>
-            <description>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.
-For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.
-Challenges:   Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
+            <description>&lt;p&gt;My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.&lt;/p&gt;
+&lt;p&gt;For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.&lt;/p&gt;
+&lt;h3 id=&#34;challenges&#34;&gt;Challenges:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.</p>
 <p>For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.</p>
 <h3 id="challenges">Challenges:</h3>
@@ -115,10 +118,9 @@ Challenges:   Finger-tracking : This took a major part of the development time, 
 </li>
 </ul>
 <p>Bear in mind that this is a work in progress, there are a lot more assets to model and bugs to fix.</p>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/XZeYEqnRLFw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XZeYEqnRLFw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p><img src="http://2.bp.blogspot.com/-AyZjfUHa7cc/VOEypJ-sShI/AAAAAAAADo8/W4cA4UjG2Yo/s1600/IMG_20150210_123132.jpg" alt=""></p>
 <p>Software packages used:</p>
@@ -138,22 +140,23 @@ Challenges:   Finger-tracking : This took a major part of the development time, 
             <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
             
             <guid>https://tituslesley89.com/posts/2015/12/music-logic/</guid>
-            <description>During my Creative Automata class (Master&amp;rsquo;s) we had learned about Digital signals and Automata theory. At the end of the course we had to create something that represented all the things we had learned over the course. I have gotten these from pictures and files stored around my PC, I don&amp;rsquo;t have the original project unfortunately
-Introduction: Playing music on any instruments and creating a song requires a sequence of instructions to be executed at certain times.</description>
+            <description>&lt;p&gt;During my Creative Automata class (Master&amp;rsquo;s) we had learned about Digital signals and Automata theory. At the end of the course we had to create something that represented all the things we had learned over the course.
+I have gotten these from pictures and files stored around my PC, I don&amp;rsquo;t have the original project unfortunately&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction:&lt;/h3&gt;
+&lt;p&gt;Playing music on any instruments and creating a song requires a sequence of instructions to be executed at certain times. The result of this is a song.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>During my Creative Automata class (Master&rsquo;s) we had learned about Digital signals and Automata theory. At the end of the course we had to create something that represented all the things we had learned over the course.
 I have gotten these from pictures and files stored around my PC, I don&rsquo;t have the original project unfortunately</p>
 <h3 id="introduction">Introduction:</h3>
 <p>Playing music on any instruments and creating a song requires a sequence of instructions to be executed at certain times. The result of this is a song.</p>
 <p>A computer is a calculator, which usually doesn&rsquo;t go wrong (mostly not at all). The inner workings of a computer can be broken down into logic gates. Obviously the system to use the gates for generic instruction sets is a lot more complex. However, it should be possible to design a basic system which shows that it is possible for such a system to exist in Music.</p>
 <p>By mapping input pulses to notes it should be possible to design a system which could play music by using only Logic gates and signals . I had a guitar handy and hence I started off with it, but this principle should be possible to translate to any musical instrument. We could possibly even invent an instrument which caters to this specific use case of logic gates.</p>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/5ufhgg2Nj9A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5ufhgg2Nj9A?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p>The initial development of the project was straight forward however, I had not taken into consideration some factor&rsquo;s during early development.</p>
 <p>I was using a game engine (Unity) to develop an editor. Although Unity is very customizable, most of the heavy lifting had to be done by the developer.
-Since I was effectively making an editor, I needed a was to save and load circuits the user had designing, I had come to this realization much later in development, and was not considered for the &lsquo;release&rsquo;. 
+Since I was effectively making an editor, I needed a was to save and load circuits the user had designing, I had come to this realization much later in development, and was not considered for the &lsquo;release&rsquo;.
 The time management system of the pulse node was naive, and did not account for more complex music patterns. This greatly reduced the number of music pieces playable by the framework. Only repetitive beats would be able to be played by this framework.</p>
 <p>Circuit explanation:
 Each black node generates a pulse which is interpreted as a TRUE signal. While every other time it is FALSE.</p>

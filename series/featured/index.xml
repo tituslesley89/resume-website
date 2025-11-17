@@ -4,54 +4,38 @@
     <title>Featured on Lesley Pandian</title>
     <link>https://tituslesley89.com/series/featured/</link>
     <description>Recent content in Featured on Lesley Pandian</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://tituslesley89.com/series/featured/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://tituslesley89.com/series/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrabble Word Checker</title>
       <link>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://tituslesley89.com/posts/2022/07/scrabble-word-checker/</guid>
-      <description>Whenever my friends and I play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive, and hence are not good sources. So I decided to make my own word validator, which blackjack and hookers.
-Introduction I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer. There are areas of improvements, but I think overall it was a good experience.</description>
+      <description>&lt;p&gt;Whenever my friends and I play any word game (Scrabble/Quiddler etc.) we keep arguing about which &amp;lsquo;source of truth&amp;rsquo; do we follow. Online dictionaries are very permissive, and hence are not good sources. So I decided to make my own word validator, which blackjack and hookers.&lt;/p&gt;&#xA;&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve worked with AWS using internal tools in my professional career, but never tried it as a customer. There are areas of improvements, but I think overall it was a good experience.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>VR Lego Simulator</title>
       <link>https://tituslesley89.com/posts/2017/11/vr-lego-simulator/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://tituslesley89.com/posts/2017/11/vr-lego-simulator/</guid>
-      <description>During my Virtual Reality Course (Master&amp;rsquo;s) we had to come up with a system to construct and de-construct Lego. The project was done as a team of 3 developers and 2 artists.
-The system was developed using FIVE-UDE version of Unity (A custom made Unity Version for developing application for the UTDallas Motion Capture Lab). We had access to a Motion capture Lab which used Vicon Cameras to track the motion of the users Oculus Rift (DK1) and 2 Wii Controllers.</description>
+      <description>&lt;p&gt;During my Virtual Reality Course (Master&amp;rsquo;s) we had to come up with a system to construct and de-construct Lego. The project was done as a team of 3 developers and 2 artists.&lt;/p&gt;&#xA;&lt;p&gt;The system was developed using FIVE-UDE version of Unity (A custom made Unity Version for developing application for the UTDallas Motion Capture Lab). We had access to a Motion capture Lab which used Vicon Cameras to track the motion of the users Oculus Rift (DK1) and 2 Wii Controllers. The Oculus Rift (DK1) was used for visual immersion and the Wii controllers simulated the users hands &amp;amp; inputs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>VR Augemented Desktop</title>
       <link>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://tituslesley89.com/posts/2017/09/vr-augemented-desktop/</guid>
-      <description>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.
-For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.
-Challenges:   Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
+      <description>&lt;p&gt;My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.&lt;/p&gt;&#xA;&lt;p&gt;For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.&lt;/p&gt;&#xA;&lt;h3 id=&#34;challenges&#34;&gt;Challenges:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Music-Logic</title>
       <link>https://tituslesley89.com/posts/2015/12/music-logic/</link>
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://tituslesley89.com/posts/2015/12/music-logic/</guid>
-      <description>During my Creative Automata class (Master&amp;rsquo;s) we had learned about Digital signals and Automata theory. At the end of the course we had to create something that represented all the things we had learned over the course. I have gotten these from pictures and files stored around my PC, I don&amp;rsquo;t have the original project unfortunately
-Introduction: Playing music on any instruments and creating a song requires a sequence of instructions to be executed at certain times.</description>
+      <description>&lt;p&gt;During my Creative Automata class (Master&amp;rsquo;s) we had learned about Digital signals and Automata theory. At the end of the course we had to create something that represented all the things we had learned over the course.&#xA;I have gotten these from pictures and files stored around my PC, I don&amp;rsquo;t have the original project unfortunately&lt;/p&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction:&lt;/h3&gt;&#xA;&lt;p&gt;Playing music on any instruments and creating a song requires a sequence of instructions to be executed at certain times. The result of this is a song.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
